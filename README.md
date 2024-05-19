@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hello, I'm [Your Name] 👋
 
-<!--
-**thomaschabro/thomaschabro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm an engineering, technology and developer enthusiastic, passionate about learning and creating disruptive solutions to the future. Here you will find some of my projects and contributions to the open-source community, as well as some personal and academic projects.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I study **Computer Engineering** at **Insper (Brazil)**.
+- 🔭 I am also working at **Diel Energia**, a Brazilian company focused on intelligent and sustainable management of energy. I'm actually a Firmware developer, working with development, debugging and testing of the products, that aims to automate the air conditioning system and predict future and possible machinery problems. 
+
+## My Projects
+
+Here are some of my recent projects:
+
+- [Project Name 1](link to the repository): Brief description of the project.
+- [Project Name 2](link to the repository): Brief description of the project.
+- [Project Name 3](link to the repository): Brief description of the project.
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/thomas-chabro/)
+- [Email](mailto:tcchabro@gmail.com)
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+Thank you for visiting! Feel free to explore my repositories and contribute. 🚀
