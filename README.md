@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Thomas Chabro 👋
 
 Welcome to my GitHub profile! I'm an engineering, technology and developer enthusiastic, passionate about learning and creating disruptive solutions to the future. Here you will find some of my projects and contributions to the open-source community, as well as some personal and academic projects.
 
