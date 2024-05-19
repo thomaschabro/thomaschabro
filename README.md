@@ -11,9 +11,9 @@ Welcome to my GitHub profile! I'm an engineering, technology and developer enthu
 
 Here are some of my recent projects:
 
-- [Project Name 1](link to the repository): Brief description of the project.
-- [Project Name 2](link to the repository): Brief description of the project.
-- [Project Name 3](link to the repository): Brief description of the project.
+- [Lua compiler](https://github.com/thomaschabro/logcomp-24.1): The project is a compiler for the Lua programming language, developed using Python. This compiler was created as part of the Computational Logic course at university. In its latest version, the compiler processes an input .lua file and generates corresponding assembly code. The project exemplifies the practical application of computational logic concepts in compiler construction, showcasing the transformation of high-level Lua code into low-level assembly instructions. This work highlights the integration of different programming paradigms and the intricacies involved in language translation and code generation.
+- [Embbeded Eletronic for off-road vehicle](https://github.com/thomaschabro/FoxBaja-Eletronica-FX4.0): This project was developed during 1 year participation in an academic project in a student group, focused in building and off-road vehicle for a national competition. I was responsible for coding the three ECU's, involving sensor reading, CAN bus communication and sending data in real time by LoRa to and receptor outside of the car. Using C/C++ and ESP-IDF, we had a decentralized system, with each ECU being composed by a ESP32 chip, a transceiver for the CAN bus communication and the respective sensors/peripherals.
+- [Cloud Project](https://github.com/thomaschabro/Projeto_Cloud): The project consists of a cloud environment created using the AWS platform, for an application chosen by the student. Its construction was done using the Terraform tool. This, in turn, allows developers to create and manage complex infrastructures in a secure and efficient way, from a declarative and intuitive programming language. The environment, created from Terraform, is allocated on AWS. This is a platform developed by Amazon to assist and provide services for creating cloud applications and environments. Therefore, use Terraform to then create a structure allocated on AWS..
 
 ## Connect with Me
 
@@ -22,6 +22,6 @@ Here are some of my recent projects:
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thomaschabro&show_icons=true&theme=radical)
 
 Thank you for visiting! Feel free to explore my repositories and contribute. 🚀
