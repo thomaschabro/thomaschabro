@@ -26,7 +26,7 @@ Here are some of my recent projects:
 <div>
 <a href="https://github.com/seu-usuário-aqui">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomaschabro&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=thomaschabro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=dark&preferLogin=false">    <img  alt="thomaschabro's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/thomaschabro?cardType=level-alternate&theme=dark&preferLogin=false" />  </a>
 </div>
 
 Thank you for visiting! Feel free to explore my repositories and contribute. 🚀
