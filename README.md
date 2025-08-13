@@ -5,7 +5,8 @@ Welcome to my GitHub profile! I'm an engineering, technology and developer enthu
 ## About Me
 
 - 🎓 I study **Computer Engineering** at **Insper (Brazil)**.
-- 🔭 I am also working at **Diel Energia**, a Brazilian company focused on intelligent and sustainable management of energy. I'm actually a Firmware developer, working with development, debugging and testing of the products, that aims to automate the air conditioning system and predict future and possible machinery problems. 
+- 🔭 I am also working at **Diel Energia**, a Brazilian company focused on intelligent and sustainable management of energy. I'm actually a Firmware developer, working with development, debugging and testing of the products, that aims to automate the air conditioning system and predict future and possible machinery problems.
+- 👨‍💻 I am currently a Junior Product Development Analyst at IAV Brasil, where I contribute to data-driven solutions and collaborate with a cross-functional international team.
 
 ## My Projects
 
